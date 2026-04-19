@@ -1,0 +1,20 @@
+
+.content{
+     
+    margin-left: 128px;
+    margin-right: 200px;
+    font-size: 22px;
+    
+
+}
+.navbar-nav{
+    font-weight: 600;
+}
+.about{
+    margin-top: 80px;
+    padding-left: 128px;
+}
+footer{
+    margin-top: 36px;
+    font-size: 18px;
+}

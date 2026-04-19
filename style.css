@@ -1,0 +1,20 @@
+
+body{
+    background-color: #fafafa;
+
+}
+footer{
+    margin-top: 16px;
+    font-size: 18px;
+}
+.navbar-nav{
+    font-weight: 600;
+
+}
+.lead{
+      font-size: 25px;
+}
+
+.img-fluid{
+    clip-path: circle(50%);
+}
